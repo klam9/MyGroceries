@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ChicoState/MyGroceries.svg?branch=master)](https://travis-ci.org/ChicoState/MyGroceries)
+[![Build Status](https://travis-ci.org/klam9/MyGroceries.svg?branch=master)](https://travis-ci.org/klam9/MyGroceries)
 
 # My Groceries
 
